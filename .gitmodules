@@ -1,3 +1,0 @@
-[submodule "lib/pico-servo"]
-	path = lib/pico-servo
-	url = https://github.com/irishpatrick/pico-servo
